@@ -42,12 +42,14 @@ const About: React.FC<AboutProps> = (props) => {
                 <h3>About Me</h3>
                 <br />
                 <p>
-                    My journey in technology is non-traditional and hands-on.
-                    I started out tinkering with IoT hardware and embedded
-                    devices, understanding computers from the silicon level up.
-                    I then spent three years immersed in technical content
-                    creation and search engine optimization, learning how users
-                    actually navigate information on the internet.
+                    My journey in technology is grounded in strong engineering
+                    foundations. I completed my Diploma in Electrical and
+                    Electronics Engineering (2018–2021) followed by a Bachelor
+                    of Technology in Computer Science from Rajiv Gandhi Proudyogiki
+                    Vishwavidyalaya (RGPV), Bhopal (2021–2024). Alongside my
+                    studies, I gained hands-on experience tinkering with IoT
+                    hardware, embedded systems, and spent three years in technical
+                    content creation and SEO.
                 </p>
                 <br />
                 <p>
@@ -55,19 +57,21 @@ const About: React.FC<AboutProps> = (props) => {
                     engineering at <b>MPSeDC</b> (Madhya Pradesh State
                     Electronics Development Corporation), building secure,
                     high-volume public portals and digital governance
-                    infrastructure serving millions of citizens. Today at
-                    Accenture, I bring that end-to-end discipline to enterprise
-                    healthcare systems.
+                    infrastructure serving millions of citizens. Today at{' '}
+                    <b>Accenture</b>, I bring that end-to-end discipline to
+                    enterprise healthcare systems using Spring Boot, Java 21,
+                    and microservices.
                 </p>
                 <br />
                 <p>
-                    Outside my day-to-day engineering work, I actively build
-                    autonomous AI agents and applied cryptographic systems. I
-                    hold <b>31 industry certifications</b>, highlighted by the{' '}
+                    During my engineering tenure at Accenture, I significantly
+                    accelerated my cloud and AI specialization, earning{' '}
+                    <b>31 professional certifications</b>—highlighted by the{' '}
                     <b>Claude Certified Architect</b> from Anthropic, Google
                     Cloud Professional credentials, Oracle Java, Microsoft
-                    Azure, and GitHub Copilot. I believe in learning by shipping
-                    real, open-source code every single day.
+                    Azure, and GitHub Copilot. Outside of work, I actively build
+                    autonomous AI agents and applied cryptographic systems,
+                    shipping real open-source code every day.
                 </p>
                 <br />
                 <div style={{}}>
