@@ -16,165 +16,138 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                             target="_blank"
                             href={'https://www.accenture.com/'}
                         >
-                            <h4>www.accenture.com</h4>
+                            <h4>Hyderabad, India</h4>
                         </a>
                     </div>
                     <div style={styles.headerRow}>
-                        <h3>Software Engineer</h3>
+                        <h3>Software Engineering Associate</h3>
                         <b>
-                            <p>2024 - Present</p>
+                            <p>Nov 2024 - Present</p>
                         </b>
                     </div>
                 </div>
             </div>
             <div className="text-block">
                 <p>
-                    Part of the Healthcare and Life Sciences engineering
-                    practice. Delivering mission-critical backend systems,
-                    resilient microservices, and automated workflows using
-                    Java, Spring Boot, and enterprise cloud tooling.
+                    Enterprise Healthcare & Life Sciences Digital Transformation.
+                    Modernizing enterprise core systems in Healthcare & Life Sciences
+                    using Spring Boot, Java 21, and RESTful APIs.
                 </p>
                 <br />
                 <ul>
                     <li>
                         <p>
-                            Architected and deployed production-grade Spring Boot
-                            microservices and RESTful APIs handling high-throughput
-                            healthcare data workflows with strict uptime requirements.
+                            Designing & implementing modular backend services with emphasis
+                            on maintainability, unit testing, and microservice architecture.
                         </p>
                     </li>
                     <li>
                         <p>
-                            Implemented scalable backend architectures with
-                            PostgreSQL persistence, distributed caching with
-                            Redis/Valkey, and containerized Docker environments.
+                            Integrating AI toolchains (Anthropic Claude, GitHub Copilot)
+                            into daily developer workflows to accelerate feature delivery
+                            and automated testing.
                         </p>
                     </li>
                     <li>
                         <p>
-                            Integrated comprehensive automated testing suites and
-                            CI/CD pipelines, accelerating release velocity and
-                            preventing production regressions.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Pioneered internal AI agent workflows and Model
-                            Context Protocol (MCP) integrations to streamline
-                            developer operations and reduce repetitive manual tasks.
+                            Collaborating across cross-functional engineering teams in an
+                            Agile/Scrum environment to deliver production-grade features.
                         </p>
                     </li>
                 </ul>
             </div>
+
             <div style={styles.headerContainer}>
                 <div style={styles.header}>
                     <div style={styles.headerRow}>
-                        <h1>MPSeDC</h1>
+                        <h1>MPSeDC - State IT Center</h1>
                         <a
                             target="_blank"
                             rel="noreferrer"
                             href={'https://mpsedc.mp.gov.in/'}
                         >
-                            <h4>mpsedc.mp.gov.in</h4>
+                            <h4>Bhopal, India</h4>
                         </a>
                     </div>
                     <div style={styles.headerRow}>
                         <h3>Software Engineer</h3>
                         <b>
-                            <p>2022 - 2024</p>
+                            <p>Apr 2024 - Oct 2024</p>
                         </b>
                     </div>
                 </div>
             </div>
             <div className="text-block">
                 <p>
-                    Madhya Pradesh State Electronics Development Corporation
-                    (MPSeDC) is the nodal agency driving digital governance and
-                    state IT infrastructure for the Government of Madhya Pradesh.
+                    Java Development and Event Planning for citizen-facing web applications
+                    and digital public infrastructure.
                 </p>
-                <br />
-                <ul>
-                    <li>
-                        <p>
-                            Engineered citizen-facing web applications and public
-                            portal services accessed by millions of state residents.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Built secure authenticated API endpoints and database
-                            schemas adhering to state compliance and data
-                            protection standards.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Refactored legacy application modules into streamlined
-                            services, cutting query latency and enhancing system
-                            stability during high-concurrency public drives.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Collaborated with cross-functional technical teams and
-                            government officials to convert regulatory policies
-                            into reliable software deliverables.
-                        </p>
-                    </li>
-                </ul>
             </div>
+
             <div style={styles.headerContainer}>
                 <div style={styles.header}>
                     <div style={styles.headerRow}>
-                        <h1>AI & Cryptography Research</h1>
-                        <a
-                            target="_blank"
-                            rel="noreferrer"
-                            href={'https://github.com/mohammadali-2000'}
-                        >
-                            <h4>github.com/mohammadali-2000</h4>
-                        </a>
+                        <h1>A2Infotech Pvt. Ltd.</h1>
+                        <span>
+                            <h4>Bhopal, India</h4>
+                        </span>
                     </div>
                     <div style={styles.headerRow}>
-                        <h3>Independent Engineer & Researcher</h3>
+                        <h3>Social Media Content Creator (Internship)</h3>
                         <b>
-                            <p>2024 - Present</p>
+                            <p>Jun 2021 - Jun 2024</p>
                         </b>
                     </div>
                 </div>
             </div>
             <div className="text-block">
                 <p>
-                    Building at the frontier of autonomous AI agents, hardware
-                    enclave security, and privacy-preserving cryptographic machine
-                    learning.
+                    Focused on Search Engine Optimization (SEO) and YouTube Video Creation.
                 </p>
-                <br />
-                <ul>
-                    <li>
-                        <p>
-                            <b>Aegis MCP Registry:</b> Architected a dynamic
-                            smart contract tool gateway and TEE hardware enclave
-                            key vault for autonomous AI agents across 100+ chains.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <b>ZeroTrust-Health:</b> Engineered an end-to-end
-                            medical ML pipeline running inference on encrypted
-                            patient data using CKKS Fully Homomorphic Encryption
-                            (TenSEAL).
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <b>31 Professional Certifications:</b> Verified
-                            credentials including Anthropic Claude Certified
-                            Architect, Google Cloud, Oracle Java, Microsoft
-                            Azure, and GitHub Copilot.
-                        </p>
-                    </li>
-                </ul>
+            </div>
+
+            <div style={styles.headerContainer}>
+                <div style={styles.header}>
+                    <div style={styles.headerRow}>
+                        <h1>mini metro e rickshaw</h1>
+                        <span>
+                            <h4>Bhopal, India</h4>
+                        </span>
+                    </div>
+                    <div style={styles.headerRow}>
+                        <h3>Sales Manager (Part-time)</h3>
+                        <b>
+                            <p>Jan 2023 - Oct 2023</p>
+                        </b>
+                    </div>
+                </div>
+            </div>
+            <div className="text-block">
+                <p>
+                    Managed Marketing Strategy and Sales operations.
+                </p>
+            </div>
+
+            <div style={styles.headerContainer}>
+                <div style={styles.header}>
+                    <div style={styles.headerRow}>
+                        <h1>Drmz System Innovations Pvt Ltd</h1>
+                        <span>
+                            <h4>Bhopal, India</h4>
+                        </span>
+                    </div>
+                    <div style={styles.headerRow}>
+                        <h3>IoT Intern</h3>
+                        <b>
+                            <p>Aug 2021 - Dec 2021</p>
+                        </b>
+                    </div>
+                </div>
+            </div>
+            <div className="text-block">
+                <p>
+                    Gained hands-on experience with Embedded Devices and Internet of Things (IoT) technologies.
+                </p>
             </div>
         </div>
     );

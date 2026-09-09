@@ -1,11 +1,15 @@
 import React from 'react';
 // @ts-ignore
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import saga from '../../../assets/pictures/projects/software/saga.mp4';
 // @ts-ignore
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import computer from '../../../assets/pictures/projects/software/computer.mp4';
 // @ts-ignore
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import scroll from '../../../assets/pictures/projects/software/scroll.mp4';
 import ResumeDownload from '../ResumeDownload';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import VideoAsset from '../../general/VideoAsset';
 
 export interface SoftwareProjectsProps {}
@@ -233,6 +237,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
     );
 };
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const styles: StyleSheetCSS = {
     video: {
         width: '100%',

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from '../general';
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import forhire from '../../assets/pictures/forHireGif.gif';
 import { useNavigate } from 'react-router';
 

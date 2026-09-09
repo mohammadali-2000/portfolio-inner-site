@@ -1,5 +1,7 @@
 import React from 'react';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import me from '../../assets/pictures/workingAtComputer.jpg';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import meNow from '../../assets/pictures/currentme.jpg';
 import { Link } from 'react-router-dom';
 import ResumeDownload from './ResumeDownload';
@@ -152,6 +154,7 @@ const About: React.FC<AboutProps> = (props) => {
     );
 };
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const styles: StyleSheetCSS = {
     contentHeader: {
         marginBottom: 16,
